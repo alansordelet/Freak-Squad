@@ -1,0 +1,14 @@
+COMPOSITION DES DOSSIERS :
+
+_Gif d'exemple pour visualiser commement l'anime fonctionne.
+_Sprite sheet en taille d'origine.
+_Sprite sheet en taille réduite. (Celle à utiliser)
+_L'animation décomposé Frame par Frame (Attention ces frames n'ont pas été retouné et sont en format d'origine).
+_Le fichier PSD source.
+_Rappel des tailles du Sprite sheet d'origine.
+
+Pour les cas particuliers en terme d'anime d'autre READ ME sont mis en place.
+
+Pour toute question, merci de prendre contact avec Kévin en Graph.
+
+Bisou sur ta fesse gauche. <3

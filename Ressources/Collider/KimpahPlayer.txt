@@ -1,0 +1,101 @@
+0 Jab1KP 0 -100 -400 200 300 Jab1KimpahPlayer
+0 Jab1KP 1 -100 -400 200 300 Jab1KimpahPlayer
+0 Jab2 0 -100 -400 200 300 Jab2KimpahPlayer
+0 Jab3 1 50 -500 200 450 Jab3KimpahPlayer
+0 Jab3 2 50 -500 200 450 Jab3KimpahPlayer
+0 Jab4 0 50 -400 200 270 Jab4KimpahPlayer
+0 Jab4 1 50 -400 200 270 Jab4KimpahPlayer
+
+
+0 ATTACKJump 0 -200 -300 400 200 ATTACKJumpKimpahPlayer
+0 ATTACKJump 1 -200 -300 400 200 ATTACKJumpKimpahPlayer
+
+0 AttackCharge 1 100 -400 200 200 chargeAttackKimpahPlayer
+0 AttackCharge 2 100 -400 200 200 chargeAttackKimpahPlayer
+0 AttackCharge 3 100 -400 200 200 chargeAttackKimpahPlayer
+0 AttackCharge 4 100 -400 200 200 chargeAttackKimpahPlayer
+
+0 sprintATTACK 2 -50 -400 350 400 sprintATTACKKimpahPlayer
+0 sprintATTACK 3 -50 -400 350 400 sprintATTACKKimpahPlayer
+
+1 IDLE 0 -100 -400 225 400 IddleKimpahPlayer
+1 IDLE 1 -100 -400 225 400 IddleKimpahPlayer
+1 IDLE 2 -100 -400 225 400 IddleKimpahPlayer
+1 IDLE 3 -100 -400 225 400 IddleKimpahPlayer
+1 IDLE 4 -100 -400 225 400 IddleKimpahPlayer
+1 IDLE 5 -100 -400 225 400 IddleKimpahPlayer
+1 IDLE 6 -100 -400 225 400 IddleKimpahPlayer
+1 IDLE 7 -100 -400 225 400 IddleKimpahPlayer
+
+1 SPRINT 0 -100 -400 225 400 SPRINTKimpahPlayer
+1 SPRINT 1 -100 -400 225 400 SPRINTKimpahPlayer
+1 SPRINT 2 -100 -400 225 400 SPRINTKimpahPlayer
+1 SPRINT 3 -100 -400 225 400 SPRINTKimpahPlayer
+1 SPRINT 4 -100 -400 225 400 SPRINTKimpahPlayer
+1 SPRINT 5 -100 -400 225 400 SPRINTKimpahPlayer
+1 SPRINT 6 -100 -400 225 400 SPRINTKimpahPlayer
+1 SPRINT 7 -100 -400 225 400 SPRINTKimpahPlayer
+
+1 MOVE 0 -100 -400 225 400 MoveKimpahPlayer
+1 MOVE 1 -100 -400 225 400 MoveKimpahPlayer
+1 MOVE 2 -100 -400 225 400 MoveKimpahPlayer
+1 MOVE 3 -100 -400 225 400 MoveKimpahPlayer
+1 MOVE 4 -100 -400 225 400 MoveKimpahPlayer
+1 MOVE 5 -100 -400 225 400 MoveKimpahPlayer
+1 MOVE 6 -100 -400 225 400 MoveKimpahPlayer
+1 MOVE 7 -100 -400 225 400 MoveKimpahPlayer
+
+1 Hit 0 -100 -400 225 400 HitStun
+
+1 Jab1KP 0 -100 -400 225 400 Jab1KimpahPlayer
+1 Jab1KP 1 -100 -400 225 400 Jab1KimpahPlayer
+1 Jab1KP 2 -100 -400 225 400 Jab1KimpahPlayer
+
+1 Jab2 0 -100 -400 225 400 Jab2KimpahPlayer
+1 Jab2 1 -100 -400 225 400 Jab2KimpahPlayer
+
+1 Jab3 0 -100 -400 225 400 Jab3KimpahPlayer
+1 Jab3 1 -100 -400 225 400 Jab3KimpahPlayer
+1 Jab3 2 -100 -400 225 400 Jab3KimpahPlayer
+
+1 Jab4 0 -100 -400 225 400 Jab4KimpahPlayer
+1 Jab4 1 -100 -400 225 400 Jab4KimpahPlayer
+1 Jab4 2 -100 -400 225 400 Jab4KimpahPlayer
+1 Jab4 3 -100 -400 225 400 Jab4KimpahPlayer
+
+1 AttackCharge 0 -100 -400 225 400 PrepareChargingKimpahPlayer
+1 AttackCharge 1 -100 -400 225 400 PrepareChargingKimpahPlayer
+1 AttackCharge 2 -100 -400 225 400 PrepareChargingKimpahPlayer
+1 AttackCharge 3 -100 -400 225 400 PrepareChargingKimpahPlayer
+1 AttackCharge 4 -100 -400 225 400 PrepareChargingKimpahPlayer
+1 AttackCharge 5 -100 -400 225 400 PrepareChargingKimpahPlayer
+1 AttackCharge 6 -100 -400 225 400 PrepareChargingKimpahPlayer
+1 AttackCharge 7 -100 -400 225 400 PrepareChargingKimpahPlayer
+1 AttackCharge 8 -100 -400 225 400 PrepareChargingKimpahPlayer
+1 AttackCharge 9 -100 -400 225 400 PrepareChargingKimpahPlayer
+
+1 Charging 0 -100 -400 225 400 PrepareChargingKimpahPlayer
+1 Charging 1 -100 -400 225 400 PrepareChargingKimpahPlayer
+1 Charging 2 -100 -400 225 400 PrepareChargingKimpahPlayer
+
+1 sprintATTACK 0 -100 -400 225 400 PrepareChargingKimpahPlayer
+1 sprintATTACK 1 -100 -400 225 400 PrepareChargingKimpahPlayer
+1 sprintATTACK 2 -100 -400 225 400 PrepareChargingKimpahPlayer
+
+
+1 PrepareCharging 0 -100 -400 225 400 PrepareChargingKimpahPlayer
+1 PrepareCharging 1 -100 -400 225 400 PrepareChargingKimpahPlayer
+1 PrepareCharging 2 -100 -400 225 400 PrepareChargingKimpahPlayer
+1 PrepareCharging 3 -100 -400 225 400 PrepareChargingKimpahPlayer
+
+1 JUMP 0 -100 -400 225 400 JumpKimpahPlayer
+1 JUMP 1 -100 -400 225 400 JumpKimpahPlayer
+1 JUMP 2 -100 -400 225 400 JumpKimpahPlayer
+1 JUMP 3 -100 -400 225 400 JumpKimpahPlayer
+1 JUMP 4 -100 -400 225 400 JumpKimpahPlayer
+
+1 ATTACKJump 0 -100 -400 225 400 JumpKimpahPlayer
+1 ATTACKJump 1 -100 -400 225 400 JumpKimpahPlayer
+1 ATTACKJump 2 -100 -400 225 400 JumpKimpahPlayer
+1 ATTACKJump 3 -100 -400 225 400 JumpKimpahPlayer
+1 ATTACKJump 4 -100 -400 225 400 JumpKimpahPlayer

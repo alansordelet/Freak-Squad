@@ -1,0 +1,4 @@
+1 IDLE 0 0 0 184 151 colis
+1 IDLE 1 0 0 184 151 colis
+1 IDLE 2 0 0 184 151 colis
+1 IDLE 3 0 0 184 151 colis

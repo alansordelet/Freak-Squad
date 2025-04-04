@@ -1,0 +1,165 @@
+0 Jab1BB 2 50 -400 200 100 Jab1BigBoy
+0 Jab1BB 3 50 -400 200 100 Jab1BigBoy
+0 Jab2 2 50 -400 200 100 Jab2BigBoy
+0 Jab2 3 50 -400 200 100 Jab2BigBoy
+0 Jab3 2 50 -500 270 450 Jab3BigBoy
+0 Jab3 3 50 -500 270 450 Jab3BigBoy
+0 Jab4 4 50 -500 200 480 Jab4BigBoy
+0 Jab4 5 50 -500 200 480 Jab4BigBoy
+0 ATTACKJump 4 0 -300 300 200 ATTACKJumpBigBoy
+0 ATTACKJump 5 0 -300 300 200 ATTACKJumpBigBoy
+
+0 AttackCharge 1 50 -400 200 100 chargeAttackBigBoy
+0 AttackCharge 2 50 -400 200 100 chargeAttackBigBoy
+0 AttackCharge 4 50 -400 200 100 chargeAttackBigBoy
+0 AttackCharge 6 50 -400 200 100 chargeAttackBigBoy
+0 AttackCharge 8 50 -400 200 100 chargeAttackBigBoy
+0 AttackCharge 10 50 -400 200 100 chargeAttackBigBoy
+0 AttackCharge 11 50 -400 200 100 finalchargeAttackBigBoy
+0 AttackCharge 12 50 -400 200 100 finalchargeAttackBigBoy
+
+0 sprintATTACK 2 0 -400 200 400 sprintATTACKBigBoy
+0 sprintATTACK 3 0 -400 200 400 sprintATTACKBigBoy
+0 sprintATTACK 4 0 -400 200 400 sprintATTACKBigBoy
+0 sprintATTACK 5 0 -400 200 400 sprintATTACKBigBoy
+0 sprintATTACK 6 0 -400 200 400 sprintATTACKBigBoy
+0 sprintATTACK 7 0 -400 200 400 sprintATTACKBigBoy
+
+0 UltimateAttackBoucle 0 300 -600 1300 700 GrandZoneAspiration
+0 UltimateAttackBoucle 1 300 -600 1300 700 GrandZoneAspiration
+0 UltimateAttackBoucle 2 300 -600 1300 700 GrandZoneAspiration
+0 UltimateAttackBoucle 3 300 -600 1300 700 GrandZoneAspiration
+
+0 UltimateAttackBoucle 0 300 -600 100 700 ZoneDisparition
+0 UltimateAttackBoucle 1 300 -600 100 700 ZoneDisparition
+0 UltimateAttackBoucle 2 300 -600 100 700 ZoneDisparition
+0 UltimateAttackBoucle 3 300 -600 100 700 ZoneDisparition
+
+0 MOVE 0 -50 -100 100 100 MoveBigBoyGrab
+0 MOVE 1 -50 -100 100 100 MoveBigBoyGrab
+0 MOVE 2 -50 -100 100 100 MoveBigBoyGrab
+0 MOVE 3 -50 -100 100 100 MoveBigBoyGrab
+0 MOVE 4 -50 -100 100 100 MoveBigBoyGrab
+0 MOVE 5 -50 -100 100 100 MoveBigBoyGrab
+0 MOVE 6 -50 -100 100 100 MoveBigBoyGrab
+0 MOVE 7 -50 -100 100 100 MoveBigBoyGrab
+
+0 SPRINT 0 -50 -100 100 100 SprintBigBoyGrab
+0 SPRINT 1 -50 -100 100 100 SprintBigBoyGrab
+0 SPRINT 2 -50 -100 100 100 SprintBigBoyGrab
+0 SPRINT 3 -50 -100 100 100 SprintBigBoyGrab
+0 SPRINT 4 -50 -100 100 100 SprintBigBoyGrab
+0 SPRINT 5 -50 -100 100 100 SprintBigBoyGrab
+0 SPRINT 6 -50 -100 100 100 SprintBigBoyGrab
+0 SPRINT 7 -50 -100 100 100 SprintBigBoyGrab
+
+1 IDLE 0 -100 -497 225 497 IddleBigBoy
+1 IDLE 1 -100 -497 225 497 IddleBigBoy
+1 IDLE 2 -100 -497 225 497 IddleBigBoy
+1 IDLE 3 -100 -497 225 497 IddleBigBoy
+1 IDLE 4 -100 -497 225 497 IddleBigBoy
+1 IDLE 5 -100 -497 225 497 IddleBigBoy
+1 IDLE 6 -100 -497 225 497 IddleBigBoy
+1 IDLE 7 -100 -497 225 497 IddleBigBoy
+
+1 SPRINT 0 -100 -497 225 497 SPRINTBigBoy
+1 SPRINT 1 -100 -497 225 497 SPRINTBigBoy
+1 SPRINT 2 -100 -497 225 497 SPRINTBigBoy
+1 SPRINT 3 -100 -497 225 497 SPRINTBigBoy
+1 SPRINT 4 -100 -497 225 497 SPRINTBigBoy
+1 SPRINT 5 -100 -497 225 497 SPRINTBigBoy
+1 SPRINT 6 -100 -497 225 497 SPRINTBigBoy
+1 SPRINT 7 -100 -497 225 497 SPRINTBigBoy
+
+1 MOVE 0 -100 -497 225 497 MoveBigBoy
+1 MOVE 1 -100 -497 225 497 MoveBigBoy
+1 MOVE 2 -100 -497 225 497 MoveBigBoy
+1 MOVE 3 -100 -497 225 497 MoveBigBoy
+1 MOVE 4 -100 -497 225 497 MoveBigBoy
+1 MOVE 5 -100 -497 225 497 MoveBigBoy
+1 MOVE 6 -100 -497 225 497 MoveBigBoy
+1 MOVE 7 -100 -497 225 497 MoveBigBoy
+
+1 Hit 0 -100 -497 225 497 HitStun
+
+
+1 Jab1BB 0 -100 -497 225 497 HurthBox
+1 Jab1BB 1 -100 -497 225 497 HurthBox
+1 Jab1BB 2 -100 -497 225 497 HurthBox
+1 Jab1BB 3 -100 -497 225 497 HurthBox
+1 Jab1BB 4 -100 -497 225 497 HurthBox
+
+
+1 Jab2 0 -100 -497 225 497 HurthBox
+1 Jab2 1 -100 -497 225 497 HurthBox
+1 Jab2 2 -100 -497 225 497 HurthBox
+1 Jab2 3 -100 -497 225 497 HurthBox
+1 Jab2 4 -100 -497 225 497 HurthBox
+1 Jab2 5 -100 -497 225 497 HurthBox
+
+1 Jab3 0 -100 -497 225 497 HurthBox
+1 Jab3 1 -100 -497 225 497 HurthBox
+1 Jab3 2 -100 -497 225 497 HurthBox
+1 Jab3 3 -100 -497 225 497 HurthBox
+1 Jab3 4 -100 -497 225 497 HurthBox
+1 Jab3 5 -100 -497 225 497 HurthBox
+1 Jab3 6 -100 -497 225 497 HurthBox
+
+
+1 Jab4 0 -100 -497 225 497 HurthBox
+1 Jab4 1 -100 -497 225 497 HurthBox
+1 Jab4 2 -100 -497 225 497 HurthBox
+1 Jab4 3 -100 -497 225 497 HurthBox
+1 Jab4 4 -100 -497 225 497 HurthBox
+1 Jab4 5 -100 -497 225 497 HurthBox
+1 Jab4 6 -100 -497 225 497 HurthBox
+1 Jab4 7 -100 -497 225 497 HurthBox
+
+1 JUMP 0 -100 -497 225 497 HurthBox
+1 JUMP 1 -100 -497 225 497 HurthBox
+1 JUMP 2 -100 -497 225 497 HurthBox
+1 JUMP 3 -100 -497 225 497 HurthBox
+1 JUMP 4 -100 -497 225 497 HurthBox
+1 JUMP 5 -100 -497 225 497 HurthBox
+1 JUMP 6 -100 -497 225 497 HurthBox
+
+1 ATTACKJump 0 -100 -497 225 497 HurthBox
+1 ATTACKJump 1 -100 -497 225 497 HurthBox
+1 ATTACKJump 2 -100 -497 225 497 HurthBox
+1 ATTACKJump 3 -100 -497 225 497 HurthBox
+1 ATTACKJump 4 -100 -497 225 497 HurthBox
+1 ATTACKJump 5 -100 -497 225 497 HurthBox
+1 ATTACKJump 6 -100 -497 225 497 HurthBox
+1 ATTACKJump 7 -100 -497 225 497 HurthBox
+1 ATTACKJump 8 -100 -497 225 497 HurthBox
+
+1 PrepareCharging 0 -100 -497 225 497 HurthBox
+1 PrepareCharging 1 -100 -497 225 497 HurthBox
+1 PrepareCharging 2 -100 -497 225 497 HurthBox
+1 PrepareCharging 3 -100 -497 225 497 HurthBox
+1 PrepareCharging 4 -100 -497 225 497 HurthBox
+
+1 Charging 0 -100 -497 225 497 HurthBox
+1 Charging 1 -100 -497 225 497 HurthBox
+
+1 AttackCharge 0 -100 -497 225 497 HurthBox
+1 AttackCharge 1 -100 -497 225 497 HurthBox
+1 AttackCharge 2 -100 -497 225 497 HurthBox
+1 AttackCharge 3 -100 -497 225 497 HurthBox
+1 AttackCharge 4 -100 -497 225 497 HurthBox
+1 AttackCharge 5 -100 -497 225 497 HurthBox
+1 AttackCharge 6 -100 -497 225 497 HurthBox
+1 AttackCharge 7 -100 -497 225 497 HurthBox
+1 AttackCharge 8 -100 -497 225 497 HurthBox
+1 AttackCharge 9 -100 -497 225 497 HurthBox
+1 AttackCharge 10 -100 -497 225 497 HurthBox
+1 AttackCharge 11 -100 -497 225 497 HurthBox
+1 AttackCharge 12 -100 -497 225 497 HurthBox
+1 AttackCharge 13 -100 -497 225 497 HurthBox
+
+1 GrabIdle 0 -100 -497 225 497 HurthBox
+
+1 GrabJab 0 -100 -497 225 497 HurthBox
+1 GrabJab 1 -100 -497 225 497 HurthBox
+1 GrabJab 2 -100 -497 225 497 HurthBox
+1 GrabJab 3 -100 -497 225 497 HurthBox

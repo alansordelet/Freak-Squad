@@ -1,0 +1,150 @@
+0 Jab1BL 3 50 -400 150 200 Jab1BloodLust
+0 Jab1BL 4 50 -400 150 200 Jab1BloodLust
+0 Jab1BL 5 50 -400 150 200 Jab1BloodLust
+0 Jab1BL 6 50 -400 150 200 Jab1BloodLust
+
+0 Jab2 4 50 -400 180 200 Jab2BloodLust
+0 Jab2 5 50 -400 180 200 Jab2BloodLust
+0 Jab2 6 50 -400 180 200 Jab2BloodLust
+
+0 Jab3 3 50 -400 240 200 Jab3BloodLust
+0 Jab3 4 50 -400 240 200 Jab3BloodLust
+0 Jab3 5 50 -400 240 200 Jab3BloodLust
+
+0 Jab4 3 50 -400 200 200 Jab4BloodLust
+0 Jab4 4 50 -400 200 300 Jab4BloodLust
+0 Jab4 5 50 -400 200 300 Jab4BloodLust
+
+0 ATTACKJump 3 0 -200 180 120 ATTACKJumpBloodLust
+0 ATTACKJump 4 0 -200 180 120 ATTACKJumpBloodLust
+
+0 AttackCharge 2 50 -400 300 300 chargeAttackBloodLust
+0 AttackCharge 3 50 -400 300 300 chargeAttackBloodLust
+0 AttackCharge 4 50 -400 300 300 chargeAttackBloodLust
+0 AttackCharge 5 50 -400 300 300 chargeAttackBloodLust
+
+0 sprintATTACK 3 0 -300 200 100 sprintATTACKBloodLust
+0 sprintATTACK 4 0 -300 200 100 sprintATTACKBloodLust
+0 sprintATTACK 5 0 -300 200 100 sprintATTACKBloodLust
+
+0 MOVE 0 -40 -100 80 80 MoveBloodLustGrab
+0 MOVE 1 -40 -100 80 80 MoveBloodLustGrab
+0 MOVE 2 -40 -100 80 80 MoveBloodLustGrab
+0 MOVE 3 -40 -100 80 80 MoveBloodLustGrab
+0 MOVE 4 -40 -100 80 80 MoveBloodLustGrab
+0 MOVE 5 -40 -100 80 80 MoveBloodLustGrab
+0 MOVE 6 -40 -100 80 80 MoveBloodLustGrab
+0 MOVE 7 -40 -100 80 80 MoveBloodLustGrab
+
+0 UltimateAttackEnd 0 -1920 -540 3840 1500 UltimateBloodDamage
+
+1 MOVE 0 -71 -400 142 400 HurthBox
+1 MOVE 1 -71 -400 142 400 HurthBox
+1 MOVE 2 -71 -400 142 400 HurthBox
+1 MOVE 3 -71 -400 142 400 HurthBox
+1 MOVE 4 -71 -400 142 400 HurthBox
+1 MOVE 5 -71 -400 142 400 HurthBox
+1 MOVE 6 -71 -400 142 400 HurthBox
+1 MOVE 7 -71 -400 142 400 HurthBox
+
+1 IDLE 0 -71 -400 142 400 HurthBox
+1 IDLE 1 -71 -400 142 400 HurthBox
+1 IDLE 2 -71 -400 142 400 HurthBox
+1 IDLE 3 -71 -400 142 400 HurthBox
+1 IDLE 4 -71 -400 142 400 HurthBox
+1 IDLE 5 -71 -400 142 400 HurthBox
+1 IDLE 6 -71 -400 142 400 HurthBox
+1 IDLE 7 -71 -400 142 400 HurthBox
+1 IDLE 8 -71 -400 142 400 HurthBox
+
+1 SPRINT 0 -71 -400 142 400 HurthBox
+1 SPRINT 1 -71 -400 142 400 HurthBox
+1 SPRINT 2 -71 -400 142 400 HurthBox
+1 SPRINT 3 -71 -400 142 400 HurthBox
+1 SPRINT 4 -71 -400 142 400 HurthBox
+1 SPRINT 5 -71 -400 142 400 HurthBox
+1 SPRINT 6 -71 -400 142 400 HurthBox
+1 SPRINT 7 -71 -400 142 400 HurthBox
+1 SPRINT 8 -71 -400 142 400 HurthBox
+1 SPRINT 9 -71 -400 142 400 HurthBox
+
+1 JUMP 0 -71 -400 142 400 HurthBox
+1 JUMP 1 -71 -400 142 400 HurthBox
+1 JUMP 2 -71 -400 142 400 HurthBox
+1 JUMP 3 -71 -400 142 400 HurthBox
+1 JUMP 4 -71 -400 142 400 HurthBox
+
+1 ATTACKJump 0 -71 -400 142 400 HurthBox
+1 ATTACKJump 1 -71 -400 142 400 HurthBox
+1 ATTACKJump 2 -71 -400 142 400 HurthBox
+1 ATTACKJump 3 -71 -400 142 400 HurthBox
+1 ATTACKJump 4 -71 -400 142 400 HurthBox
+1 ATTACKJump 5 -71 -400 142 400 HurthBox
+1 ATTACKJump 6 -71 -400 142 400 HurthBox
+
+1 Jab1BL 0 -71 -400 142 400 HurthBox
+1 Jab1BL 1 -71 -400 142 400 HurthBox
+1 Jab1BL 2 -71 -400 142 400 HurthBox
+1 Jab1BL 3 -71 -400 142 400 HurthBox
+1 Jab1BL 4 -71 -400 142 400 HurthBox
+1 Jab1BL 5 -71 -400 142 400 HurthBox
+1 Jab1BL 6 -71 -400 142 400 HurthBox
+1 Jab1BL 7 -71 -400 142 400 HurthBox
+
+1 Jab2 0 -71 -400 142 400 HurthBox
+1 Jab2 1 -71 -400 142 400 HurthBox
+1 Jab2 2 -71 -400 142 400 HurthBox
+1 Jab2 3 -71 -400 142 400 HurthBox
+1 Jab2 4 -71 -400 142 400 HurthBox
+1 Jab2 5 -71 -400 142 400 HurthBox
+1 Jab2 6 -71 -400 142 400 HurthBox
+1 Jab2 7 -71 -400 142 400 HurthBox
+
+1 Jab3 0 -71 -400 142 400 HurthBox
+1 Jab3 1 -71 -400 142 400 HurthBox
+1 Jab3 2 -71 -400 142 400 HurthBox
+1 Jab3 3 -71 -400 142 400 HurthBox
+1 Jab3 4 -71 -400 142 400 HurthBox
+1 Jab3 5 -71 -400 142 400 HurthBox
+
+1 Jab4 0 -71 -400 142 400 HurthBox
+1 Jab4 1 -71 -400 142 400 HurthBox
+1 Jab4 2 -71 -400 142 400 HurthBox
+1 Jab4 3 -71 -400 142 400 HurthBox
+1 Jab4 4 -71 -400 142 400 HurthBox
+1 Jab4 5 -71 -400 142 400 HurthBox
+
+1 Jab4 0 -71 -400 142 400 HurthBox
+1 Jab4 1 -71 -400 142 400 HurthBox
+1 Jab4 2 -71 -400 142 400 HurthBox
+1 Jab4 3 -71 -400 142 400 HurthBox
+1 Jab4 4 -71 -400 142 400 HurthBox
+1 Jab4 5 -71 -400 142 400 HurthBox
+
+1 Charging 0 -71 -400 142 400 HurthBox
+1 Charging 1 -71 -400 142 400 HurthBox
+1 Charging 2 -71 -400 142 400 HurthBox
+1 Charging 3 -71 -400 142 400 HurthBox
+1 Charging 4 -71 -400 142 400 HurthBox
+1 Charging 5 -71 -400 142 400 HurthBox
+1 Charging 6 -71 -400 142 400 HurthBox
+1 Charging 7 -71 -400 142 400 HurthBox
+
+1 PrepareCharging 0 -71 -400 142 400 HurthBox
+1 PrepareCharging 1 -71 -400 142 400 HurthBox
+1 PrepareCharging 2 -71 -400 142 400 HurthBox
+1 PrepareCharging 3 -71 -400 142 400 HurthBox
+1 PrepareCharging 4 -71 -400 142 400 HurthBox
+1 PrepareCharging 5 -71 -400 142 400 HurthBox
+
+1 AttackCharge 0 -71 -400 142 400 HurthBox
+1 AttackCharge 1 -71 -400 142 400 HurthBox
+1 AttackCharge 2 -71 -400 142 400 HurthBox
+1 AttackCharge 3 -71 -400 142 400 HurthBox
+1 AttackCharge 4 -71 -400 142 400 HurthBox
+1 AttackCharge 5 -71 -400 142 400 HurthBox
+1 AttackCharge 6 -71 -400 142 400 HurthBox
+1 AttackCharge 7 -71 -400 142 400 HurthBox
+1 AttackCharge 8 -71 -400 142 400 HurthBox
+
+1 GrabIdle 0 -71 -400 142 400 HurthBox

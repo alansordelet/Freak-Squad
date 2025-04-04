@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AI.cpp" />
+    <ClCompile Include="BehaviorTree.cpp" />
+    <ClCompile Include="Blood.cpp" />
+    <ClCompile Include="Boss_Smoke.cpp" />
+    <ClCompile Include="Camera.cpp" />
+    <ClCompile Include="CheckCollision.cpp" />
+    <ClCompile Include="Collectible.cpp" />
+    <ClCompile Include="CollisionMap.cpp" />
+    <ClCompile Include="CollisionMask.cpp" />
+    <ClCompile Include="collisionMaskManager.cpp" />
+    <ClCompile Include="Destructible.cpp" />
+    <ClCompile Include="DialogueReader.cpp" />
+    <ClCompile Include="FactoryIA.cpp" />
+    <ClCompile Include="FeedBackScore.cpp" />
+    <ClCompile Include="Fly.cpp" />
+    <ClCompile Include="Fumee.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="Go.cpp" />
+    <ClCompile Include="Hit.cpp" />
+    <ClCompile Include="IADictionnary.cpp" />
+    <ClCompile Include="IA_Pattern.cpp" />
+    <ClCompile Include="IA_PatternC.cpp" />
+    <ClCompile Include="IA_PatternH.cpp" />
+    <ClCompile Include="IA_PatternS.cpp" />
+    <ClCompile Include="IA_PatternT.cpp" />
+    <ClCompile Include="Light_Manager.cpp" />
+    <ClCompile Include="MainMenu.cpp" />
+    <ClCompile Include="Map.cpp" />
+    <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="MenuFactory.cpp" />
+    <ClCompile Include="MenuSettings.cpp" />
+    <ClCompile Include="MenuStart.cpp" />
+    <ClCompile Include="Ombre.cpp" />
+    <ClCompile Include="Package.cpp" />
+    <ClCompile Include="Parallax.cpp" />
+    <ClCompile Include="Particules.cpp" />
+    <ClCompile Include="PauseGameCOMP.cpp" />
+    <ClCompile Include="Physique.cpp" />
+    <ClCompile Include="Physique_Ultimate.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="Score.cpp" />
+    <ClCompile Include="Shake.cpp" />
+    <ClCompile Include="Selection.cpp" />
+    <ClCompile Include="Sounds.cpp" />
+    <ClCompile Include="Sounds3D.cpp" />
+    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Starters.cpp" />
+    <ClCompile Include="Timer.cpp" />
+    <ClCompile Include="tools2.cpp" />
+    <ClCompile Include="Transition.cpp" />
+    <ClCompile Include="TriggerZone.cpp" />
+    <ClCompile Include="Ui.cpp" />
+    <ClCompile Include="Ui_Player.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AI.h" />
+    <ClInclude Include="BehaviorTree.h" />
+    <ClInclude Include="Blood.h" />
+    <ClInclude Include="Boss_Smoke.h" />
+    <ClInclude Include="Camera.h" />
+    <ClInclude Include="CheckCollision.h" />
+    <ClInclude Include="Collectible.h" />
+    <ClInclude Include="CollisionMap.h" />
+    <ClInclude Include="CollisionMask.h" />
+    <ClInclude Include="collisionMaskManager.h" />
+    <ClInclude Include="Destructible.h" />
+    <ClInclude Include="DialogueReader.h" />
+    <ClInclude Include="FactoryIA.h" />
+    <ClInclude Include="FeedBackScore.h" />
+    <ClInclude Include="Fly.h" />
+    <ClInclude Include="Fumee.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="Go.h" />
+    <ClInclude Include="Hit.h" />
+    <ClInclude Include="IADictionnary.h" />
+    <ClInclude Include="IA_Pattern.h" />
+    <ClInclude Include="IA_PatternC.h" />
+    <ClInclude Include="IA_PatternH.h" />
+    <ClInclude Include="IA_PatternS.h" />
+    <ClInclude Include="IA_PatternT.h" />
+    <ClInclude Include="Light_Manager.h" />
+    <ClInclude Include="MainMenu.h" />
+    <ClInclude Include="Map.h" />
+    <ClInclude Include="Menu.h" />
+    <ClInclude Include="MenuFactory.h" />
+    <ClInclude Include="MenuSettings.h" />
+    <ClInclude Include="MenuStart.h" />
+    <ClInclude Include="Ombre.h" />
+    <ClInclude Include="Package.h" />
+    <ClInclude Include="Parallax.h" />
+    <ClInclude Include="Particules.h" />
+    <ClInclude Include="PauseGameCOMP.h" />
+    <ClInclude Include="Physique.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="Score.h" />
+    <ClInclude Include="Shake.h" />
+    <ClInclude Include="Selection.h" />
+    <ClInclude Include="Sounds.h" />
+    <ClInclude Include="Sounds3D.h" />
+    <ClInclude Include="Starters.h" />
+    <ClInclude Include="Timer.h" />
+    <ClInclude Include="tools2.h" />
+    <ClInclude Include="Transition.h" />
+    <ClInclude Include="TriggerZone.h" />
+    <ClInclude Include="Ui.h" />
+    <ClInclude Include="Ui_Player.h" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{a8546736-c91f-4b1d-a71e-4f588c40e5e2}</ProjectGuid>
+    <RootNamespace>FreakSquad</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <OutDir>$(SolutionDir)\bin\$(Configuration)\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <OutDir>$(SolutionDir)\bin\$(Configuration)\</OutDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <AdditionalIncludeDirectories>..\SFML-2.5.1\include;..\CoffeeEngineDll\include;..\sfeMovie_x64\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>..\SFML-2.5.1\lib;..\CoffeeEngineDll\lib\Debug;..\sfeMovie_x64\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>sfml-graphics-d.lib;sfml-window-d.lib;sfml-system-d.lib;sfml-audio-d.lib;sfml-network-d.lib;CoffeeCore.lib;sfeMovie-d.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <AdditionalIncludeDirectories>..\SFML-2.5.1\include;..\CoffeeEngineDll\include;..\sfeMovie_x64\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>..\SFML-2.5.1\lib;..\CoffeeEngineDll\lib\Release;..\sfeMovie_x64\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>sfml-graphics.lib;sfml-window.lib;sfml-system.lib;sfml-audio.lib;sfml-network.lib;CoffeeCore.lib;sfeMovie.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

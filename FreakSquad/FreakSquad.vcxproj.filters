@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="FactoryIA.cpp">
+      <Filter>_GAME_OBJECT</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>_GAME_OBJECT</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>_GAME_OBJECT</Filter>
+    </ClCompile>
+    <ClCompile Include="IADictionnary.cpp">
+      <Filter>_OTHER</Filter>
+    </ClCompile>
+    <ClCompile Include="tools2.cpp">
+      <Filter>_OTHER</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>_SCENE</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>_SCENE</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Parallax.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="collisionMaskManager.cpp">
+      <Filter>_OTHER</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>_OTHER\_MAIN_MENU</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuFactory.cpp">
+      <Filter>_OTHER\_FACTORY</Filter>
+    </ClCompile>
+    <ClCompile Include="AI.cpp">
+      <Filter>_COMPONENT\_AI</Filter>
+    </ClCompile>
+    <ClCompile Include="IA_Pattern.cpp">
+      <Filter>_COMPONENT\_AI</Filter>
+    </ClCompile>
+    <ClCompile Include="IA_PatternC.cpp">
+      <Filter>_COMPONENT\_AI</Filter>
+    </ClCompile>
+    <ClCompile Include="IA_PatternS.cpp">
+      <Filter>_COMPONENT\_AI</Filter>
+    </ClCompile>
+    <ClCompile Include="IA_PatternT.cpp">
+      <Filter>_COMPONENT\_AI</Filter>
+    </ClCompile>
+    <ClCompile Include="BehaviorTree.cpp">
+      <Filter>_COMPONENT\_AI</Filter>
+    </ClCompile>
+    <ClCompile Include="Blood.cpp">
+      <Filter>_COMPONENT\_Effects</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss_Smoke.cpp">
+      <Filter>_COMPONENT\_Effects</Filter>
+    </ClCompile>
+    <ClCompile Include="Fly.cpp">
+      <Filter>_COMPONENT\_Effects</Filter>
+    </ClCompile>
+    <ClCompile Include="Fumee.cpp">
+      <Filter>_COMPONENT\_Effects</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionMap.cpp">
+      <Filter>_COMPONENT\_Environment</Filter>
+    </ClCompile>
+    <ClCompile Include="Light_Manager.cpp">
+      <Filter>_COMPONENT\_Environment</Filter>
+    </ClCompile>
+    <ClCompile Include="Ombre.cpp">
+      <Filter>_COMPONENT\_Environment</Filter>
+    </ClCompile>
+    <ClCompile Include="Particules.cpp">
+      <Filter>_COMPONENT\_Effects</Filter>
+    </ClCompile>
+    <ClCompile Include="Shake.cpp">
+      <Filter>_COMPONENT\_Effects</Filter>
+    </ClCompile>
+    <ClCompile Include="Sounds.cpp">
+      <Filter>_COMPONENT\_Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="Sounds3D.cpp">
+      <Filter>_COMPONENT\_Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuSettings.cpp">
+      <Filter>_COMPONENT\_UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Selection.cpp">
+      <Filter>_COMPONENT\_UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Score.cpp">
+      <Filter>_COMPONENT\_UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui_Player.cpp">
+      <Filter>_COMPONENT\_UI</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionMask.cpp">
+      <Filter>_COMPONENT\_Environment</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckCollision.cpp">
+      <Filter>_COMPONENT\_Environment</Filter>
+    </ClCompile>
+    <ClCompile Include="PauseGameCOMP.cpp">
+      <Filter>_COMPONENT\_UI</Filter>
+    </ClCompile>
+    <ClCompile Include="FeedBackScore.cpp">
+      <Filter>_COMPONENT\_UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>_COMPONENT\_Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Collectible.cpp">
+      <Filter>_COMPONENT\_Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Destructible.cpp">
+      <Filter>_COMPONENT\_Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Hit.cpp">
+      <Filter>_COMPONENT\_Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Package.cpp">
+      <Filter>_COMPONENT\_Core</Filter>
+    </ClCompile>
+    <ClCompile Include="TriggerZone.cpp">
+      <Filter>_COMPONENT\_Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Physique.cpp">
+      <Filter>_COMPONENT\_Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Physique_Ultimate.cpp">
+      <Filter>_COMPONENT\_Core</Filter>
+    </ClCompile>
+    <ClCompile Include="IA_PatternH.cpp">
+      <Filter>_COMPONENT\_AI</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>_COMPONENT\_UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Starters.cpp">
+      <Filter>_COMPONENT\_Core</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogueReader.cpp">
+      <Filter>_COMPONENT\_UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Go.cpp">
+      <Filter>_COMPONENT\_UI</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuStart.cpp">
+      <Filter>_COMPONENT\_UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui.cpp">
+      <Filter>_COMPONENT\_UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Transition.cpp">
+      <Filter>_COMPONENT\_UI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FactoryIA.h">
+      <Filter>_GAME_OBJECT</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>_GAME_OBJECT</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>_GAME_OBJECT</Filter>
+    </ClInclude>
+    <ClInclude Include="IADictionnary.h">
+      <Filter>_OTHER</Filter>
+    </ClInclude>
+    <ClInclude Include="tools2.h">
+      <Filter>_OTHER</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>_SCENE</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>_SCENE</Filter>
+    </ClInclude>
+    <ClInclude Include="Parallax.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="collisionMaskManager.h">
+      <Filter>_OTHER</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.h">
+      <Filter>_OTHER\_MAIN_MENU</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuFactory.h">
+      <Filter>_OTHER\_FACTORY</Filter>
+    </ClInclude>
+    <ClInclude Include="AI.h">
+      <Filter>_COMPONENT\_AI</Filter>
+    </ClInclude>
+    <ClInclude Include="IA_Pattern.h">
+      <Filter>_COMPONENT\_AI</Filter>
+    </ClInclude>
+    <ClInclude Include="IA_PatternC.h">
+      <Filter>_COMPONENT\_AI</Filter>
+    </ClInclude>
+    <ClInclude Include="IA_PatternS.h">
+      <Filter>_COMPONENT\_AI</Filter>
+    </ClInclude>
+    <ClInclude Include="IA_PatternT.h">
+      <Filter>_COMPONENT\_AI</Filter>
+    </ClInclude>
+    <ClInclude Include="BehaviorTree.h">
+      <Filter>_COMPONENT\_AI</Filter>
+    </ClInclude>
+    <ClInclude Include="Blood.h">
+      <Filter>_COMPONENT\_Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss_Smoke.h">
+      <Filter>_COMPONENT\_Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="Fly.h">
+      <Filter>_COMPONENT\_Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="Fumee.h">
+      <Filter>_COMPONENT\_Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionMap.h">
+      <Filter>_COMPONENT\_Environment</Filter>
+    </ClInclude>
+    <ClInclude Include="Light_Manager.h">
+      <Filter>_COMPONENT\_Environment</Filter>
+    </ClInclude>
+    <ClInclude Include="Ombre.h">
+      <Filter>_COMPONENT\_Environment</Filter>
+    </ClInclude>
+    <ClInclude Include="Particules.h">
+      <Filter>_COMPONENT\_Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="Shake.h">
+      <Filter>_COMPONENT\_Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="Sounds3D.h">
+      <Filter>_COMPONENT\_Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="Sounds.h">
+      <Filter>_COMPONENT\_Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuSettings.h">
+      <Filter>_COMPONENT\_UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Selection.h">
+      <Filter>_COMPONENT\_UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Score.h">
+      <Filter>_COMPONENT\_UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui_Player.h">
+      <Filter>_COMPONENT\_UI</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionMask.h">
+      <Filter>_COMPONENT\_Environment</Filter>
+    </ClInclude>
+    <ClInclude Include="CheckCollision.h">
+      <Filter>_COMPONENT\_Environment</Filter>
+    </ClInclude>
+    <ClInclude Include="PauseGameCOMP.h">
+      <Filter>_COMPONENT\_UI</Filter>
+    </ClInclude>
+    <ClInclude Include="FeedBackScore.h">
+      <Filter>_COMPONENT\_UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>_COMPONENT\_Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Collectible.h">
+      <Filter>_COMPONENT\_Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Destructible.h">
+      <Filter>_COMPONENT\_Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Hit.h">
+      <Filter>_COMPONENT\_Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Package.h">
+      <Filter>_COMPONENT\_Core</Filter>
+    </ClInclude>
+    <ClInclude Include="TriggerZone.h">
+      <Filter>_COMPONENT\_Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Physique.h">
+      <Filter>_COMPONENT\_Core</Filter>
+    </ClInclude>
+    <ClInclude Include="IA_PatternH.h">
+      <Filter>_COMPONENT\_AI</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>_COMPONENT\_UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Starters.h">
+      <Filter>_COMPONENT\_Core</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuStart.h">
+      <Filter>_COMPONENT\_UI</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogueReader.h">
+      <Filter>_COMPONENT\_UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Go.h">
+      <Filter>_COMPONENT\_UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui.h">
+      <Filter>_COMPONENT\_UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Transition.h">
+      <Filter>_COMPONENT\_UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="_COMPONENT">
+      <UniqueIdentifier>{ac05cc45-da0e-4d35-857c-06a32f5a299b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_GAME_OBJECT">
+      <UniqueIdentifier>{8aad83d5-ee0f-4951-a5d4-51f967f765d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_OTHER">
+      <UniqueIdentifier>{ef24af46-25f1-4276-a253-eac7609fc441}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_SCENE">
+      <UniqueIdentifier>{a7f6a99d-3fa7-473a-bc9f-949794d48f75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{43ff6f86-9174-4a42-9db7-412038278166}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{189e6d0a-6669-4908-ac04-f2d8f3aaedd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_OTHER\_MAIN_MENU">
+      <UniqueIdentifier>{2dfd7bf0-ed29-4314-838c-cf0cbd329bb8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_OTHER\_FACTORY">
+      <UniqueIdentifier>{bbcb740e-dac8-4f12-a576-15ed69c646d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_COMPONENT\_AI">
+      <UniqueIdentifier>{a1eac4d5-d1c4-4545-8461-82e49c098e5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_COMPONENT\_Effects">
+      <UniqueIdentifier>{986ff1b1-65d9-49aa-bbdc-439509771edb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_COMPONENT\_Environment">
+      <UniqueIdentifier>{ecd3c900-7fb7-43a6-ad63-6eddb1c61b19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_COMPONENT\_Audio">
+      <UniqueIdentifier>{73fadfbe-a436-4533-a1cc-40678a44f417}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_COMPONENT\_UI">
+      <UniqueIdentifier>{6954de3b-2f12-4268-a75b-3a7ee2f8e3f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_COMPONENT\_Core">
+      <UniqueIdentifier>{e5d734b4-db7c-4b05-a7de-39d4ef7af386}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
